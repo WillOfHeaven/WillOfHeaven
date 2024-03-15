@@ -1,4 +1,7 @@
 ### Hi there 👋
+[![WillOfHeaven's GitHub | Dependencies](https://stats.quine.sh/WillOfHeaven/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=WillOfHeaven)
+
+[![WillOfHeaven's GitHub | Stats](https://stats.quine.sh/WillOfHeaven/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=WillOfHeaven)
 
 <!--
 **WillOfHeaven/WillOfHeaven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
